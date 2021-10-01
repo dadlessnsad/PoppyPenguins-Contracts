@@ -1,0 +1,25 @@
+{
+  "name": "poppypengun-contract-master",
+  "version": "1.0.0",
+  "description": "Poppy Penguin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dadlessnsad/PoppyPenguins-Contracts.git"
+  },
+  "author": "DadlessNsad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dadlessnsad/PoppyPenguins-Contracts/issues"
+  },
+  "homepage": "https://github.com/dadlessnsad/PoppyPenguins-Contracts#readme",
+  "devDependencies": {
+    "hardhat": "^2.6.4"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.0"
+  }
+}
